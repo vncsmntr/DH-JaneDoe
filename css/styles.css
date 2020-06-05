@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', 'sans-serif';
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 10px 20px;
+    font-family: "Raleway";
+    font-weight: 700;
+}
+
+
+.links {
+    text-decoration: none;
+    color: #555555;
+}
+
+.image-align {
+    padding-left: 10px;
+}
+
+.text-align {
+    padding-left: 50px;
+
+}
+
+Footer {
+    bottom: 0;
+    background-color: #ffffff;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+.center {
+    padding-left: 150px;
+    text-align: justify;
+    padding-right: 150px;
+}
+
+.left {
+    padding-left: 150px;
+}
+
+a:link, a:visited, a:active {
+	text-decoration: none;
+    }
+    
+a:hover {
+	text-decoration: none; 
+	color: #ff0000;
+    }
+  
+.offset {
+    padding: 10px 10px;
+}
+
+.color {
+    background-color: rgba(255, 255, 255, 0);
+    color: orange;
+    font-family: "Raleway";
+    font-weight: 700;
+}
+
+.janeimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.image img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.about h2 {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.about p {
+    text-align: center;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.normal {
+    font-weight: 400;
+    font-size: small;
+}
+
+.music {
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    text-align: justify;
+}
+
+.text-music {
+    display: list-item;
+    font-family: "Raleway";
+    list-style: none;
+}
+
+.contact {
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    text-align: justify;
+}
+
+.contact-bold {
+    font-weight: 700;
+}
