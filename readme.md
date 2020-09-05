@@ -2,4 +2,4 @@
 
 ### All projects started with 'DH' belong to all done during the course of Front-End Web, held at the Hack Station from Facebook
 
-### Link para o projeto: janedoe-digitalhouse.netlify.app
+### Link para o projeto: https://janedoe-digitalhouse.netlify.app
